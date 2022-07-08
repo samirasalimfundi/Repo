@@ -88,33 +88,33 @@ export default function FormPropsTextFields() {
   <tbody>
     <tr>
       <td>Kilimanjaro 4</td>
-      <td>8:00 to 9:30am</td>
+      <td></td>
       <td>7:30 to 9:00am</td>
-      <td>8:00 to 9:30am</td>
+      <td></td>
       <td>7:30 to 9:00am</td>
-      <td>8:00 to 9:30am</td>
+      <td></td>
       <td>7:30 to 9:00am</td>
       <td>7:30 to 9:00am</td>
     </tr>
     <tr>
       <td>Kilimanjaro 5</td>
-      <td>12:00 to 1:30pm</td>
-      <td>12:00 to 1:30pm</td>
-      <td>11:30 to 1:00pm</td>
-      <td>12:00 to 1:30pm</td>
-      <td>11:30 to 1:00pm</td>
-      <td>12:00 to 1:30pm</td>
-      <td>12:00 to 1:30pm</td>
+      <td>7:30 to 9:00am</td>
+      <td></td>
+      <td>7:30 to 9:00am</td>
+      <td></td>
+      <td>7:30 to 9:00am</td>
+      <td></td>
+      <td>7:30 to 9:00am</td>
     </tr>
     <tr>
       <td> Kilimanjaro 6</td>
       <td>No tranport</td>
-      <td>3:30 to 5:00pm</td>
-      <td>4:00 to 5:30pm</td>
-      <td>3:30 to 5:00pm</td>
+      <td>7:30 to 9:00am</td>
+      <td>7:30 to 9:00am</td>
+      <td></td>
       <td>No transport</td>
-      <td>3:30 to 5:00pm</td>
-      <td>5:00 to 6:30</td>
+      <td></td>
+      <td>7:30 to 9:00am</td>
     </tr>
   </tbody>
 </Table>
