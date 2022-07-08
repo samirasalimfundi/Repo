@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+/* navbar section */
+
+.navbar {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    float: right;
+    height: 80px;
+    background: transparent;
+    background-color: black;
+    color: #fff;
+}
+img{
+    width: 70px;
+    height: 10%;
+    align-items: center;
+}
+.navbar h4{
+    cursor: pointer;
+
+    padding-left: 0;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 0 20px;
+    color: #fff;
+} 
